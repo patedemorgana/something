@@ -7,5 +7,5 @@ document
 document
     .querySelector(".oi-sogra2")
     .addEventListener("click", function() {
-        alert("Resposta errada")
+        alert("resposta errada")
     })
